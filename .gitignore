@@ -2,15 +2,13 @@
 data/
 *.txt
 *.parquet
+!requirements.txt
 
 # Figures (push later)
 figures/
 
 # Readme (push later)
 README.md
-
-# Requirements (push later)
-requirements.txt
 
 # Python
 __pycache__/
