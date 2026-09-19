@@ -1,0 +1,21 @@
+# Data (too large to push)
+data/
+*.txt
+*.parquet
+
+# Figures (push later)
+figures/
+
+# Readme (push later)
+README.md
+
+# Requirements (push later)
+requirements.txt
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
