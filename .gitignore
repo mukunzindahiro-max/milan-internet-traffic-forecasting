@@ -4,9 +4,6 @@ data/
 *.parquet
 !requirements.txt
 
-# Figures (push later)
-figures/
-
 # Python
 __pycache__/
 *.py[cod]
